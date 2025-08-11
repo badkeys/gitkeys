@@ -1,0 +1,6 @@
+blocklist/git vulnerability, ec, providers_bc_artifacts_certs_r5.zip/HashMLDSA65-ECDSA-P384-SHA512-2.16.840.1.114027.80.8.1.48_priv.der.KFdsu.key
+blocklist/git vulnerability, ec, providers_bc_artifacts_certs_r5.zip/HashMLDSA65-ECDSA-brainpoolP256r1-SHA512-2.16.840.1.114027.80.8.1.49_priv.der.ciS_d.key
+blocklist/git vulnerability, rsa[3072], providers_bc_artifacts_certs_r5.zip/HashMLDSA65-RSA3072-PSS-SHA512-2.16.840.1.114027.80.8.1.44_priv.der.xAwx5.key
+blocklist/git vulnerability, ec, providers_bc_artifacts_certs_r5.zip/MLDSA65-ECDSA-P384-SHA384-2.16.840.1.114027.80.8.1.28_priv.der.GopXi.key
+blocklist/git vulnerability, ec, providers_bc_artifacts_certs_r5.zip/MLDSA65-ECDSA-brainpoolP256r1-SHA256-2.16.840.1.114027.80.8.1.29_priv.der.z1eJC.key
+blocklist/git vulnerability, rsa[3072], providers_bc_artifacts_certs_r5.zip/MLDSA65-RSA3072-PKCS15-SHA256-2.16.840.1.114027.80.8.1.27_priv.der.zoTyd.key
